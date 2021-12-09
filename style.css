@@ -1,0 +1,10 @@
+body {
+    color: rgb(252, 242, 229); 
+    background-color:rgb(34, 34, 34);
+    fill: rgb(252, 242, 229); 
+    text-align: center; 
+    margin-left: 10%; 
+    margin-right: 10%;
+    font-family:"Raleway", sans-serif;
+    line-height:150%;
+}
