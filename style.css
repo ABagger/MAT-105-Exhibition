@@ -8,3 +8,7 @@ body {
     font-family:"Raleway", sans-serif;
     line-height:150%;
 }
+
+emph {
+    font-weight: bold;
+}
