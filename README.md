@@ -1,9 +1,8 @@
 # A Revolution in Posters 
-Andrew Bagger
+Andrew Bagger  
+@TentacleCryptid  
 
-@TentacleCryptid
-
-11 December 2021
+December 11, 2021  
 
 This webpage was created for the MAT 105 "History of Graphic Design" 
 final presentation.
