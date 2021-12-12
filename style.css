@@ -8,11 +8,24 @@ body {
     margin-bottom: 1.5in;
     margin-right: 10%;
     font-family:"Raleway", sans-serif;
+    font-size: large;
     line-height:150%;
 }
 
 emph {
     font-weight: bold;
+}
+
+a{
+    color:lightskyblue;
+}
+
+#Prologue{
+    text-align: left;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:30px;
+    margin-bottom:30px;
 }
 
 #ImageGrid{
